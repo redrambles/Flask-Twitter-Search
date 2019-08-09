@@ -4,10 +4,15 @@
 
 body {
     background-color:#1da1f226;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
 }
 
-header {
-    height:100px;
+.header {
+    width: 100%;
+    text-align: center;
 }
 
 h1 {
@@ -16,6 +21,7 @@ h1 {
 
 .tweet {
     padding: 10px;
+    display: flex;
     margin:auto;
     width:50%;
     background-color: white;
