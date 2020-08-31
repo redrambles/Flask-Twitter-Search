@@ -1,6 +1,3 @@
-* {
-    color:#14171A;
-}
 
 body {
     background-color:#1da1f226;
@@ -8,6 +5,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-content: flex-start;
+    font-size: 16px;
 }
 
 .header {
@@ -22,6 +20,7 @@ h1 {
 .tweet {
     padding: 10px;
     display: flex;
+    justify-content: space-between;
     margin:auto;
     width:50%;
     background-color: white;
@@ -29,6 +28,17 @@ h1 {
     margin-bottom: 20px;
 }
 
+.tweet figure {
+    width: 15%;
+}
+
+.tweet div {
+    width: 80%;
+}
+
 .date {
     color:#657786;
+}
+.date, .user {
+    font-size: .9rem;
 }
