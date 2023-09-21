@@ -1,15 +1,15 @@
 appdirs==1.4.4
-certifi==2020.6.20
+certifi==2023.7.22
 cfgv==3.2.0
 chardet==3.0.4
 click==7.1.2
 distlib==0.3.1
 filelock==3.0.12
-Flask==1.1.2
+Flask==2.2.5
 identify==1.4.29
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 nodeenv==1.5.0
 oauthlib==3.1.0
@@ -23,4 +23,4 @@ toml==0.10.1
 tweepy==3.7.0
 urllib3==1.25.10
 virtualenv==20.0.31
-Werkzeug==1.0.1
+Werkzeug==2.2.3
