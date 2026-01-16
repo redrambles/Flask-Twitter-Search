@@ -4,7 +4,7 @@ cfgv==3.2.0
 chardet==3.0.4
 click==7.1.2
 distlib==0.3.1
-filelock==3.0.12
+filelock==3.20.3
 Flask==1.1.2
 identify==1.4.29
 idna==2.10
@@ -23,4 +23,4 @@ toml==0.10.1
 tweepy==3.7.0
 urllib3==1.25.10
 virtualenv==20.0.31
-Werkzeug==1.0.1
+Werkzeug==3.1.5
